@@ -1,0 +1,1 @@
+# azurejana-terraform-azurerm-securestorage
